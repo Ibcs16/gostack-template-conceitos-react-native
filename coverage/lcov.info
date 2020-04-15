@@ -49,8 +49,10 @@ BRDA:65,0,0,4
 BRDA:65,0,1,1
 BRDA:85,1,0,1
 BRDA:85,1,1,2
-BRF:4
-BRH:4
+BRDA:95,2,0,3
+BRDA:95,2,1,1
+BRF:6
+BRH:6
 end_of_record
 TN:
 SF:src\assets\user.jpg
